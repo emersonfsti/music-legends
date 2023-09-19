@@ -1,4 +1,4 @@
-@@ -7,29 +7,59 @@
+@@ -Music Legends @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/emersonfsti/music-legends.svg" />
   
@@ -15,6 +15,7 @@
   <img src=".github/preview.png" width="100%" />
 </p>
 ## 💻 Projeto
+
 Esse projeto foi desenvolvido acompanhando as videos aulas baixo do DEV Leo Vargas.
 
 O protótipo desse website foi desenvolvido pelo [**Iuri Silva**](https://www.instagram.com/iuricode/), [clique aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO?node-id=80254%3A868) para abrir o protótipo no figma.
